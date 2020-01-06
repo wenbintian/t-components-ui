@@ -1,2 +1,2 @@
 ## 链接
-[demo](https://wenbintian.github.io/t-components-ui/dist/)
+[demo](https://wenbintian.github.io/t-components-ui/)
